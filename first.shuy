@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#add the given two numbers
+
+((sum=40+70))
+
+echo $sum
